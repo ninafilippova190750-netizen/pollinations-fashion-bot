@@ -16,5 +16,5 @@ Telegram bot для генерации luxury fashion изображений с 
 
 ### 1. Клонировать репозиторий
 ```bash
-git clone https://github.com/YOUR_USERNAME/pollinations-fashion-bot.git
+git clone https://github.com/ninafilippova190750-netizen/pollinations-fashion-bot.git
 cd pollinations-fashion-bot
