@@ -1,2 +1,20 @@
-# pollinations-fashion-bot
-Telegram bot for luxury fashion image generation using Pollinations.ai API
+# 🕶️ Pollinations Fashion Bot
+
+Telegram bot для генерации luxury fashion изображений с использованием [Pollinations.ai](https://pollinations.ai) API.
+
+## ✨ Возможности
+
+- 🎨 Генерация изображений через Pollinations AI (flux, zimage, klein-large)
+- 👓 Акцент на брендовые очки: Cartier, Tom Ford, Chrome Hearts, Gentle Monster
+- 👫 Чередование мужских/женских образов
+- 🏖 Luxury локации: яхты, пентхаусы, бассейны, суперкары
+- 📸 Автоматические скриншоты превью через ScreenshotOne
+- ☁️ Загрузка результатов на Beget S3
+- 🔄 Ротация тем и промтов через AI
+
+## 🚀 Быстрый старт
+
+### 1. Клонировать репозиторий
+```bash
+git clone https://github.com/YOUR_USERNAME/pollinations-fashion-bot.git
+cd pollinations-fashion-bot
